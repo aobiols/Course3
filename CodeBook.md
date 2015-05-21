@@ -11,6 +11,8 @@ Person:     Is a number from 1-30 indicating the original subject
 
 Activity:   Indicate the activity that was mesaures, It can take on of the following values:
 
+		  WALKING
+		  
 		  WALKING_UPSTAIRS
 	
 		  WALKING_DOWNSTAIRS
